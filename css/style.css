@@ -1,0 +1,82 @@
+html, body {
+    margin:0;
+    height: 100%;
+}
+
+body {
+    background: #f8f9fa;
+    color: #4a4a4a;
+    /*3b3b3b*/
+}
+
+h1 {
+    color: #3b3b3b;
+}
+
+i {
+    font-weight: bold;
+}
+
+.list_medic> li {
+    font-family: 'Oswald', sans-serif;
+}
+
+.conten {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-left: 22px solid #a5d8ff;
+    border-right: 22px solid #a5d8ff;
+}
+
+.pacifico {
+    font-family: 'Pacifico', cursive;
+}
+
+.title-contact {
+    color: #ca4c4c;
+}
+
+.icon-contact {
+    color: #a5d8ff;
+    font-size: 1.5em !important;
+    padding: 6px 8px;
+    border-radius: 50%;
+    border: 2px solid;
+}
+
+.info-contact {
+    list-style: none;
+    margin: 0 !important;
+}
+
+.orbit-content {
+    background: #3b3b3b;
+    padding: 20px;
+}
+
+.title_evidence {
+    color: #ffffff;
+    font-size: 1.2em;
+    margin: 10px;
+}
+
+.font-weight {
+    font-size: 1.4em;
+}
+
+.margin-top40 {
+    margin-top: 40px;
+}
+
+.margin-top20 {
+    margin-top: 20px;
+}
+
+.margin-top10 {
+    margin-top: 10px;
+}
+
+.img-intro {
+    border: 10px solid #ffffff;
+    box-shadow: 1px 1px 2px 2px #dcdcdc;
+}
